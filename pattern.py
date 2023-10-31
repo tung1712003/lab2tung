@@ -9,4 +9,4 @@ for i in range(pattern_size):
             line += 'X'
         else:
             line += ' '
-    print(line * 7)
+    print(line * 2)
